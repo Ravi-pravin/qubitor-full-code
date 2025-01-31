@@ -98,12 +98,11 @@
 /* Step3: componentContainer*/
 .heroContainer{
     background-color: var(--primaryColor);
-    /* width: 1200px; */
-    /* margin: auto; */
 }
 /* Step4: row */
 .heroHeadingBody{
     /* background-color: #ffffff; */
+    padding-top: 2rem;
 }
 /* Step5: column */
 .headingBlock{

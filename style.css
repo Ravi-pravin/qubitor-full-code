@@ -82,9 +82,9 @@ svg {
     max-width: 100%;
 }
 
-.componentSpacing {
+/* .componentSpacing {
     padding: 3rem 0rem;
-}
+} */
 
 .grid-1 {
     display: grid;
